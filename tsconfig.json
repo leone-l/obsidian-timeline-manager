@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "ES2018",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "lib": ["DOM", "ES2018", "ES2020.String"],
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "removeComments": false,
+    "sourceMap": false,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "jsx": "react",
+    "jsxFactory": "createEl"
+  },
+  "include": ["main.ts", "src/**/*.ts", "src/**/*.tsx"]
+}

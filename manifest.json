@@ -1,0 +1,10 @@
+{
+  "id": "timeline-manager",
+  "name": "Timeline Manager",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Visually create and manage timelines. Timelines are stored as markdown documents with a rendered timeline code block.",
+  "author": "Timeline Manager",
+  "authorUrl": "https://obsidian.md",
+  "isDesktopOnly": false
+}

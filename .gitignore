@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Build output
+*.js.map
+dist/
+
+# Obsidian plugin user data
+data.json
+
+# OS
+.DS_Store
+
+# Zip artifacts
+*.zip
